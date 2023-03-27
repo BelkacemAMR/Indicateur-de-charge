@@ -1,0 +1,2 @@
+# Indicateur de charge
+ 
