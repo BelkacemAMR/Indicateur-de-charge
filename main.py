@@ -6,7 +6,7 @@ def battery_charge(percent):
     print('[' + '❚' * num_bars + ' ' * (10 - num_bars) + ']')
     print(f"{percent}%")
 
-#Test :
+#On teste la fonction : 
 
 # Charge 0% :
 battery_charge(0)
